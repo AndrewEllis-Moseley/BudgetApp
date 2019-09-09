@@ -1,4 +1,6 @@
 /*
+UDEMY COURSE
+
     TO-DO LIST
     Add event handler
     Get input values
